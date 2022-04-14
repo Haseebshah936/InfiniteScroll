@@ -8,6 +8,7 @@ export default function App() {
   // The task starting time and ending must be in 24 hour formatt.
   // For different colors you can use color randomization. Like the one below at the time of task creation.
   // You can also use color randomization for text color as well.
+  // The default text color is white. And the default color for a task is tomato.
 
   const index = Math.floor(Math.random() * 2);
   const color = [
