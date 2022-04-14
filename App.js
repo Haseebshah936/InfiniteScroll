@@ -1,7 +1,6 @@
 import { StatusBar } from "expo-status-bar";
 import { useState } from "react";
 import { StyleSheet, Text, View } from "react-native";
-import HourlyEventComponent from "./components/HourlyEventComponent";
 import HourlyEvents from "./components/HourlyEvents";
 
 export default function App() {
